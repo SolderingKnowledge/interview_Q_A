@@ -5,9 +5,9 @@
 
 2 Event bubbling, event delegation
 
-3 call(), apply(), bind();
+3 Explain call(), apply(), bind() methods;
 
-4 what is the difference between classical inheritance and prototypal inheritance?
+4 What is the difference between classical inheritance and prototypal inheritance?
 
 # CSS:
 1 What is CSS gradient?
@@ -16,6 +16,32 @@
 
 3 Can you give an example of an @media property other than screen?
 
+4 How many ways to apply CSS to HTML?
+
+5 Where in HTML is good idea to put CSS link?
+
+# HTML
+
+1 Do you know inline and block elements?-If so, give an example..
+
+2 What is SVG?
+
+3 How many self closing tag elements do you know?
+
+4 Do you know new features was introduced in HTML5?
+
+5 What is HTML entities?
+
 
  # General:
 1 What frontend tools do you normally use?
+
+2 How do you make sure your pages are fast?
+
+3 How do you make sure your code works across browsers?
+
+4 Unit testing- do you know any or have used?
+
+5 What Task Runners have you used or know any?- and what they do?
+
+6 What front end frameworks do you know for single page app? -and which one you prefer? - and why?
