@@ -81,3 +81,22 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
  * Angular(framework that uses Typescript scripting laguage that is similar to JS, all core features are included which is good for large apps but bad for small apps)-by Google
  * Vue(uses JS syntax in well-known way and keeps HTMl and JS, CSS seperate from each other in one file, manages layouts with components, learning curve is easy)-by developers
  
+ 7 You can use Firefox or Chrome to debug but i prefer Chrome and it's inspector:
+  * read the error and use `console.log()` to log out the error
+  * use breakpoints: `step over`, `step in`, `step out`
+  * use `debugger` statement in your source code
+  * use developer tools to make debugging easier such as `react dev tools` that is in chrome web store 
+  
+ 8 Single page app:
+  * reduces HTTP call
+  * does not require page reloading during use, front end files run in the browser--it is fast 
+  * SPA requests the markup and data independently and renders pages straight in the browser
+    
+  * first time loading is slow because it gives to user all front end code at once
+  * if user disables javascript in their local browser then app is not gonna be presentable of it's own way
+  * not an easy task to make SEO optimization of a Single-Page Application
+  Multi-page app:
+  * Very good and easy for proper SEO management. It gives better chances to rank for different keywords since an application can be optimized for one keyword per page.
+  * require page reloading 
+  * to display a new page to user first request gets sent to server to bring new page, so it is slow
+  * frontend and backend development are tightly coupled
