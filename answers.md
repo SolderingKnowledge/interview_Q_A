@@ -20,6 +20,31 @@
 4 Class Inheritance: instances inherit from classes (blueprint), and create sub-class relationships(Parent -> Child). Instances are typically instantiated via constructor functions with the `new` keyword.
 
 Prototypal Inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`.
+Code example:
+```javascript
+function Father(eyes, skin){
+  this.eyes = eyes;
+  this.skin = skin;
+}
+Father.prototype.can = function(){//method for Father
+  console.log("Can bring food");
+}
+ //instance     object
+var kanat = new Father("brown");//instanstiating object
+kanat;
+kanat.can();
+
+//========================  inheritance starts here
+
+Son.prototype = Object.create(Father.prototype);//ES6 extends Father
+function Son(){
+  Father.call(this, "blue", "black");//ES6 super()
+}
+var bala = new Son();
+bala.can();
+
+
+```
 
 ## CSS:
 1 CSS gradients let you display smooth transitions between two or more specified colors
