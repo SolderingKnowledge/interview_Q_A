@@ -20,7 +20,7 @@
 4 Class Inheritance: instances inherit from classes (blueprint), and create sub-class relationships(Parent -> Child). Instances are typically instantiated via constructor functions with the `new` keyword.
 Code example:
 ```javascript
-class Person{
+class Father{
   constructor(name, age){
     this.name = name;
     this.age = age;
@@ -30,13 +30,13 @@ class Person{
   }
 }
 
-var kanat = new Person("Kanat", 29);
+var kanat = new Father("Kanat", 29);
 kanat;
 kanat.introduce();
 
 //============== inheritance starts here
 
-class Programmer extends Person {
+class Son extends Father {
   constructor(name, age, has){
     super(name, age);
     this.has = has;
@@ -45,7 +45,7 @@ class Programmer extends Person {
     console.log("I have a", this.has);
   }
 }
-var tima = new Programmer("Tima", 25, "computer");
+var tima = new Son("Tima", 25, "computer");
 tima;
 tima.introduce();
 tima.property();
