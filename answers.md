@@ -98,6 +98,6 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 
 Multi-page app:
   * very good and easy for proper SEO management. It gives better chances to rank for different keywords since an application can be optimized for one keyword per page.
-  * to get from one to page to another requires page reloading, essentially makes request to a server
+  * to get from one page to another requires page reloading, essentially it makes a request to a server
   * to display a new page to user first request gets sent to server to bring new page, so it is slow
   * frontend and backend development are tightly coupled
