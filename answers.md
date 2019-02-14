@@ -88,7 +88,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
   * use developer tools to make debugging easier such as `react dev tools` that is in chrome web store 
   
  8 Single page app:
-  * reduces HTTP call
+  * reduces HTTP calls
   * does not require page reloading during use, front end files run in the browser--it is fast 
   * SPA requests the markup and data independently and renders pages straight in the browser
     
