@@ -63,6 +63,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 5 Task Runners are: Gulp, Grunt.In one word automation. Doing such as converting Less to CSS and minifying JS files etc..
 
 6 
-* React(JS library but with Redux, Router it goes as a framework, uses JSX syntax meaning everything is JS approach-- good for small apps and large apps)
- * Angular(framework that uses Typescript scripting laguage that is similar to JS, all core features are included which is good for large apps but bad for small apps)
+* React(JS library but with Redux, Router it goes as a framework, uses JSX syntax. React is good for small apps and large apps)-by Facebook
+ * Angular(framework that uses Typescript scripting laguage that is similar to JS, all core features are included which is good for large apps but bad for small apps)-by Google
+ * Vue(uses JS syntax in well-known way and keeps HTMl and JS, CSS seperate from each other in one file, manages layouts with components, learning curve is easy)-by developers
  
