@@ -50,3 +50,7 @@
 5 What Task Runners have you used or know any?- and what they do?
 
 6 What front end frameworks do you know for single page app? -and which one you prefer? - and why?
+
+7 How do you debug your code if there is an error?
+
+8 What are the pros and cons of single page app and multipage app?
