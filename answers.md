@@ -57,7 +57,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
  1 React(for mobile: React Native), Angular(for mobile: Ionic), Vue etc.
  
  2 
-   *  use sprite(minimize assets)
+   * use sprite(minimize assets)
    * use adaptive images,
    * evaluate plugins(making sure cdn-s are up to date and minified)
    * reduce http calls,
@@ -67,8 +67,8 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
    * configure expires headers
  
  3 
-   *  reset CSS(resetting default CSS to new such as {margin: 0} etc..),
-   * normolize CSS(small CSS file that aims to make built-in browsers styling consistent across multiple browsers)
+   * reset CSS(resetting default CSS to new such as {margin: 0} etc..),
+   * normalize CSS(small CSS file that aims to make built-in browsers styling consistent across multiple browsers)
    * use frameworks(bootstrap, reactstrap)
    * cross browser testing( testing manually and find standard ground for every browser)
 
