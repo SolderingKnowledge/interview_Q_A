@@ -1,15 +1,15 @@
-## questions:
+# questions:
 
-# Js:
+## Js:
 1 Whats the difference between a promise and a callback
 
-2 Event bubbling, event delegation
+2 Event bubbling, event delegation, event capturing.
 
 3 Explain call(), apply(), bind() methods;
 
 4 What is the difference between classical inheritance and prototypal inheritance?
 
-# CSS:
+## CSS:
 1 What is CSS gradient?
 
 2 What is tooltip?
@@ -20,7 +20,11 @@
 
 5 Where in HTML is good idea to put CSS link?
 
-# HTML
+6 Explain CSS specificity?
+
+7 Name position property values and how they differentiate from one another?
+
+## HTML
 
 1 Do you know inline and block elements?-If so, give an example..
 
@@ -33,7 +37,8 @@
 5 What is HTML entities?
 
 
- # General:
+
+ ## General:
 1 What frontend tools do you normally use?
 
 2 How do you make sure your pages are fast?
