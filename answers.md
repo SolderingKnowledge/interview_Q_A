@@ -92,7 +92,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
   * does not require page reloading during use, front end files run in the browser--it is fast 
   * SPA requests the markup and data independently and renders pages straight in the browser
     
-  * first time loading is slow because it gives to user all front end code at once
+  * first time loading is slow because it gives to user all front end source codes at once
   * if user disables javascript in their local browser then app is not gonna be presentable of it's own way
   * not an easy task to make SEO optimization of a Single-Page Application
 
