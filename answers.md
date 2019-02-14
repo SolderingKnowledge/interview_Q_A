@@ -42,7 +42,8 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 # General:
  1 React(for mobile: React Native), Angular(for mobile: Ionic), Vue etc.
  
- 2 *  use sprite(minimize assets)
+ 2 
+   *  use sprite(minimize assets)
    * use adaptive images,
    * evaluate plugins(making sure cdn-s are up to date and minified)
    * reduce http calls,
@@ -51,7 +52,8 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
    * enable HTTP keep-alive response headers,
    * configure expires headers
  
- 3 *  reset CSS(resetting default CSS to new such as {margin: 0} etc..),
+ 3 
+   *  reset CSS(resetting default CSS to new such as {margin: 0} etc..),
    * normolize CSS(small CSS file that aims to make built-in browsers styling consistent across multiple browsers)
    * use frameworks(bootstrap, reactstrap)
    * cross browser testing( testing manually and find standard ground for every browser)
@@ -60,6 +62,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 
 5 Task Runners are: Gulp, Grunt.In one word automation. Doing such as converting Less to CSS and minifying JS files etc..
 
-6 * React(JS library but with Redux, Router it goes as a framework, uses JSX syntax meaning everything is JS approach-- good for small apps and large apps)
+6 
+* React(JS library but with Redux, Router it goes as a framework, uses JSX syntax meaning everything is JS approach-- good for small apps and large apps)
  * Angular(framework that uses Typescript scripting laguage that is similar to JS, all core features are included which is good for large apps but bad for small apps)
  
