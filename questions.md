@@ -1,6 +1,6 @@
 # Questions:
 
-## Js:
+## JS:
 1 Whats the difference between a promise and a callback
 
 2 Event bubbling, event delegation, event capturing.
