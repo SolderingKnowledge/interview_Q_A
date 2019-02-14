@@ -1,4 +1,4 @@
-# questions:
+# Questions:
 
 ## Js:
 1 Whats the difference between a promise and a callback
