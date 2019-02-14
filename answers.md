@@ -13,7 +13,7 @@
  * catching an event coming from the parent element to it's child element.
  
 
-3 apply(forComa, coma), apply([array]) methods, you can write a method that can be used on different objects.
+3 call(forComa, coma), apply([array]) methods, you can write a method that can be used on different objects.
   bind() creates a new function that will have "this"-(currentObject) set to the first parameter passed to bind().
   
 
