@@ -4,7 +4,7 @@
 1 Promise is asynchrounious operation with some methods that do task one after another to run the given task.But, Callback is a child function that gets called after parent function is called.
 
 2 Event Bubbling: 
-  * when event an event happens on HTML element and by default event goes from that element to the top, to it's parent element, and it's parent element to it's parent and so on.
+  * when an event happens on HTML element and by default event goes from that element to the top, to it's parent element, and it's parent element to it's parent and so on.
   
  Event Delegation: 
  * when that event being delegated on the way of bubbling to it's parent element.
