@@ -95,7 +95,8 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
   * first time loading is slow because it gives to user all front end code at once
   * if user disables javascript in their local browser then app is not gonna be presentable of it's own way
   * not an easy task to make SEO optimization of a Single-Page Application
-  Multi-page app:
+
+Multi-page app:
   * Very good and easy for proper SEO management. It gives better chances to rank for different keywords since an application can be optimized for one keyword per page.
   * require page reloading 
   * to display a new page to user first request gets sent to server to bring new page, so it is slow
