@@ -1,11 +1,16 @@
-## answers:
+# answers:
 
-# js:
-1 This means the callback is a closure.Promise runs asynchrouniously
+## js:
+1 Promise is asynchrounious operation with some methods that do task one after another to run the given task.But, Callback is a child function that gets called after parent function is called.
 
-2 Event Bubbling:  when event an event happens on HTML element and by default event goes from that element to the top, to it's parent element, and it's parent element to it's parent and so on.
- Event Delegation: when that event being delegated on the way of bubbling to it's parent element.
- Event Capturing: catching an event coming from the parent element to it's child element.
+2 Event Bubbling: 
+  * when event an event happens on HTML element and by default event goes from that element to the top, to it's parent element, and it's parent element to it's parent and so on.
+  
+ Event Delegation: 
+ * when that event being delegated on the way of bubbling to it's parent element.
+ 
+ Event Capturing: 
+ * catching an event coming from the parent element to it's child element.
  
 
 3 apply(forComa, coma), apply([array]) methods, you can write a method that can be used on different objects.
@@ -16,7 +21,7 @@
 
 Prototypal Inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`.
 
-# CSS:
+## CSS:
 1 CSS gradients let you display smooth transitions between two or more specified colors
 
 2 A tooltip is often used to specify extra information about something when the user moves the mouse pointer over an element
@@ -27,8 +32,17 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 
 5 In the "head"- because when browser brings HTML to user CSS codes get imported first before 'body'.
 
+6 If 2 or more CSS selectors apply to the same HTML element, the one with higher specificity wins out. Specificity order(1-Important,2-inline, 3-class, 4-element
 
-# HTML
+7 position values are:
+  * static(by default is static)
+  * fixed(doesn't move even when you scroll)
+  * absolute(the same as fixed but respects scrolling)
+  * relative(checks parent--doesn't take properties `left-right` to set positions)
+  * sticky(positioned based on user scroll)
+
+
+## HTML
  1 Inline elements are: ISLAB(img,span,link,a,button).The rest elements are block elements.
  
  2 Scalable Vector Graphics: used for designing logos etc. Defines the graphics in XML format using mathematical relation.
@@ -39,7 +53,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
  
  5 Some characters are reserved in HTML in order to use them we use entities...such as "<" -> "&lt;"
 
-# General:
+## General:
  1 React(for mobile: React Native), Angular(for mobile: Ionic), Vue etc.
  
  2 
