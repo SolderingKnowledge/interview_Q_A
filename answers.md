@@ -1,4 +1,4 @@
-# answers:
+# Answers:
 
 ## js:
 1 Promise is asynchrounious operation with some methods that do task one after another to run the given task.But, Callback is a child function that gets called after parent function is called.
