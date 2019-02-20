@@ -129,7 +129,7 @@ bala.can();
    * use frameworks(bootstrap, reactstrap)
    * cross browser testing( testing manually and find standard ground for every browser)
 
-4 Unit testing tools are: Jasmine, Ava, Tape, Mocha, 
+4 Unit testing tools are: Jasmine, Ava, Tape, Mocha, Karma. 
 
 5 Task Runners are: Gulp, Grunt.In one word automation. Doing such as converting Less to CSS and minifying JS files etc..
 
