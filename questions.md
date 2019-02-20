@@ -54,3 +54,7 @@
 7 How do you debug your code if there is an error?
 
 8 What are the pros and cons of single page app and multipage app?
+9 What is AJAX?-How does it work?
+10 What is E2E testing?
+11 What is Web Accessibility?
+12 What is Browser APIs?
