@@ -159,7 +159,7 @@ Multi-page app:
   * to display a new page to user first request gets sent to server to bring new page, so it is slow
   * frontend and backend development are tightly coupled
   
- 9 Asynchrnous Javascript and XMl. Essentially it's an operation that does something without reloading the web page. Before in web development all developers used to use XMl format but, now every modern developer uses JSON. People still calling it AJAX--rather then AJAJ(Asynchronous Javascript and Json) 
+ 9 Asynchrnous Javascript and XML. Essentially it's an operation that does something without reloading the web page. Before in web development all developers used to use XML format but, now every modern developer uses JSON. People still calling it AJAX--rather then AJAJ(Asynchronous Javascript and Json) 
  
  10 End-to-end testing is a Software testing methodology to test an application flow from start to end.
  
