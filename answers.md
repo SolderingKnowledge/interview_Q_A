@@ -158,3 +158,8 @@ Multi-page app:
   * to get from one page to another requires page reloading, essentially it makes a request to a server
   * to display a new page to user first request gets sent to server to bring new page, so it is slow
   * frontend and backend development are tightly coupled
+  
+ 9 Asynchrnous Javascript and XMl. Essentially it's an operation that does something without reloading the web page. Before in web development all developers used to use XMl format but, now every modern developer uses JSON. People still calling it AJAX--rather then AJAJ(Asynchronous Javascript and Json) 
+ 10 End-to-end testing is a Software testing methodology to test an application flow from start to end.
+ 11 Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
+ 12 Browser API is simply is an API, provided by the browser and that we can communicate with using JavaScript. Such as an extension of the HTML <iframe> element that allows web apps to implement browsers or browser-like applications.
