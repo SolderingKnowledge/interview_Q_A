@@ -166,3 +166,5 @@ Multi-page app:
  11 Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
  
  12 Browser API is simply is an API, provided by the browser and that we can communicate with using JavaScript. Such as an extension of the HTML <iframe> element that allows web apps to implement browsers or browser-like applications.
+ 
+
