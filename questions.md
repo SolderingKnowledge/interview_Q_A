@@ -62,3 +62,5 @@
 11 What is Web Accessibility?
 
 12 What is Browser APIs?
+
+13 Explain the differences between cookies & sessionStorage & localStorage?
